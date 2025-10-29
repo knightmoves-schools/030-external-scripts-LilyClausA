@@ -1,7 +1,7 @@
-let total=1;
-total=total+49;
+var total = 50;
 
-document.getElementById('result').innerHTML=total;
+document.getElementById('result').innerHTML = total;
+
 
 
 
